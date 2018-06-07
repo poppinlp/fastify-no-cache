@@ -22,6 +22,9 @@
     "helmet",
     "no-cache"
   ],
+  "files": [
+    "src"
+  ],
   "author": "PoppinL",
   "license": "MIT",
   "bugs": {
