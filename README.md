@@ -17,6 +17,11 @@ You may know [no-cache](https://github.com/helmetjs/nocache) as a [no-cache midd
 
 You may find the reason in [benchmark result](./benchmarks/benchmark.txt) and wish you like it. :)
 
+## Difference
+
+This plugin has passed all [no-cache](https://github.com/helmetjs/nocache) test cases.
+And no difference in options.
+
 ## Install
 
 Via npm:

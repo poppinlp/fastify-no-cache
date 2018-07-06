@@ -1,4 +1,8 @@
-Average req/sec in 5 times 10s test
-with no plugin: 28357.30
-with nocache middleware: 25900.59
-with fastify-no-cache plugin: 27271.89
+node version: v10.6.0
+platform: darwin
+cpus: [{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":71055580,"nice":0,"sys":38365050,"idle":276525420,"irq":0}},{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":38846960,"nice":0,"sys":16410360,"idle":330669350,"irq":0}},{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":68535740,"nice":0,"sys":32351770,"idle":285039210,"irq":0}},{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":39563970,"nice":0,"sys":15949530,"idle":330413150,"irq":0}}]
+
+Average req/sec in 3 times 10s test
+with no plugin: 24595.33
+with nocache middleware: 18152.73
+with fastify-no-cache plugin: 22588.47
